@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="YahooFinanceSuite">
+    <test name="YahooFinanceTest">
+        <classes>
+            <class name="com.example.tests.YahooFinanceTest"/>
+        </classes>
+    </test>
+</suite>
